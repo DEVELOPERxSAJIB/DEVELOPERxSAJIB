@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @DEVELOPERxSAJIB
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning MERN
-- 💞️ I’m looking to collaborate on a Team
-- 📫 How to reach me message me anytime
+Enthusiastic Web Application Developer.
+Proficient in full-stack development, particularly the MERN Stack.
 
 <!---
 DEVELOPERxSAJIB/DEVELOPERxSAJIB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
